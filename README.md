@@ -4,7 +4,7 @@
 
 [![Codewars](https://www.codewars.com/users/Messi195/badges/large)](https://www.codewars.com/users/Messi195)
 
-<img src="[https//....](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY2YnU3MjRodnZyd2Nuamk3ZXh3b25tcjk1NWVjcDA5Z3F1NmFhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6arSJwtKZBtWCRzg6d/giphy.gif)" alt="bug" width="300">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY2YnU3MjRodnZyd2Nuamk3ZXh3b25tcjk1NWVjcDA5Z3F1NmFhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6arSJwtKZBtWCRzg6d/giphy.gif" alt="bug" width="300">
 
 
 
