@@ -10,7 +10,7 @@
 
 ## 🥶 About me
 
-Hi i'm Alihan and i'm 12 years, i was learning coding for 2 years. I like to play soccer and i play chess in lichess my rating is 1700. I live in America, and i love my python coach.
+Hi i'm Alihan and i'm 12 years, i am learning coding for 2 years. I like to play soccer and i play chess in lichess my rating is 1700. I live in America, and i love my python coach.
 
 - ⚡ I adapt quickly to changes
 - 🧩 I solve complex problems
